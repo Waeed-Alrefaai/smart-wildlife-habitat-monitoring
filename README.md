@@ -1,5 +1,7 @@
 # Smart Wildlife Habitat Monitoring System
 
+![Dashboard](Screenshots/reserve-overview.png)
+
 A simulated IoT-based wildlife habitat monitoring system developed using Node-RED and MQTT. The system monitors environmental conditions across multiple wildlife zones and generates real-time alerts when abnormal situations are detected.
 
 ## Project Overview
@@ -7,6 +9,10 @@ A simulated IoT-based wildlife habitat monitoring system developed using Node-RE
 This project was developed as part of an Internet of Things (IoT) course. The system simulates sensor data and monitors wildlife habitats through a real-time dashboard.
 
 The goal is to help wildlife reserve managers monitor environmental conditions and respond quickly to potential risks affecting protected species.
+
+## Technologies
+
+Node-RED | MQTT | JavaScript | EMQX Broker | IoT Dashboard
 
 ## Features
 
