@@ -111,22 +111,22 @@ Screenshots/
 ## Screenshots
 
 ### Reserve Overview
-![Reserve Overview](Screenshots/Dashboard_Screenshots_Reserve%20Overview.png)
+![Reserve Overview](Screenshots/reserve-overview.png)
 
 ### Wildlife Dashboard
-![Wildlife Dashboard](Screenshots/Dashboard_Screenshots_Wildlife%20Dashboard.png)
+![Wildlife Dashboard](Screenshots/wildlife-dashboard.png)
 
 ### Zone 2 Manual Test
-![Zone2 Test](Screenshots/Dashboard_Screenshots_Wildlife%20Dashboard_manual%20test%20Zone2.png)
+![Zone 2 Manual Test](Screenshots/zone2-manual-test.png)
 
 ### Zone 1 Architecture
-![Zone1 Architecture](Screenshots/Architecture_Screenshots_Zone1-%20Leopard%20Highlands%20Architecture.png)
+![Zone 1 Architecture](Screenshots/zone1-architecture.png)
 
 ### Zone 2 Architecture
-![Zone2 Architecture](Screenshots/Architecture_Screenshots_Zone2-%20Oryx%20Plains%20Architecture.png)
+![Zone 2 Architecture](Screenshots/zone2-architecture.png)
 
 ### Zone 3 Architecture
-![Zone3 Architecture](Screenshots/Architecture_Screenshots_Zone3-%20Gazelle%20Valley%20Architecture.png)
+![Zone 3 Architecture](Screenshots/zone3-architecture.png)
 
 ## Setup Instructions
 
