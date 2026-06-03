@@ -1,0 +1,2253 @@
+[
+    {
+        "id": "728ac504bb4ac29a",
+        "type": "tab",
+        "label": "Zone 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e619af036e5865c2",
+        "type": "tab",
+        "label": "Zone 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "bc31e30b1956870c",
+        "type": "tab",
+        "label": "Zone 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6bfeca5e4eefe715",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "355ac11ad495d60b",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "0204b2444c5b3bc5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "c9e1a51ead32a2e5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "0d08774a4a18e912",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "1a3d7dde875b1ff4",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "4e2fbd8bc8f6407a",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "8d7136cc70c38a9b",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "159d520b1ed3a967",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "59e87f626e3a4da9",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#c78d29",
+                "baseFont": "Georgia,Georgia,serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#c78d29",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#c78d29",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#deaf5f",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#c78d29",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Georgia,Georgia,serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "7d044447201199e9",
+        "type": "ui_tab",
+        "name": "Wildlife Dashbourd",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "4e948f73562d1e95",
+        "type": "ui_tab",
+        "name": "Reserve Overview",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e827b166e5938e45",
+        "type": "ui_group",
+        "name": "Zone 1 — Leopard Highlands ",
+        "tab": "7d044447201199e9",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a8f3d00b42791a9e",
+        "type": "ui_group",
+        "name": "Zone 2 — Oryx Plains ",
+        "tab": "7d044447201199e9",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4a792e3d100e4337",
+        "type": "ui_group",
+        "name": "Zone 3 — Gazelle Valley",
+        "tab": "7d044447201199e9",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1a6861ee97c201ae",
+        "type": "ui_group",
+        "name": "Zone 1 — Leopard Highlands ",
+        "tab": "4e948f73562d1e95",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7e0a6ec747f82c3a",
+        "type": "ui_group",
+        "name": "Zone 2 — Oryx Plains ",
+        "tab": "4e948f73562d1e95",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c9c550f9c19edc27",
+        "type": "ui_group",
+        "name": "Zone 3 — Gazelle Valley",
+        "tab": "4e948f73562d1e95",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "09dc0ec7fdb91217",
+        "type": "ui_group",
+        "name": "Settings",
+        "tab": "7d044447201199e9",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "818fd03c4eb6d38f",
+        "type": "ui_group",
+        "name": "Function",
+        "tab": "7d044447201199e9",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "946f7a0e34db5e9d",
+        "type": "inject",
+        "z": "728ac504bb4ac29a",
+        "name": "Generate Temperature",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 190,
+        "y": 400,
+        "wires": [
+            [
+                "595ca4acdfc138a1"
+            ]
+        ]
+    },
+    {
+        "id": "595ca4acdfc138a1",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Random Temperature",
+        "func": "\nlet temp = Math.floor(Math.random() * (52 - 25 + 1)) + 25;\n\nmsg.payload = {\n    temperature: temp\n};\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 400,
+        "wires": [
+            [
+                "e25203b525c8618f"
+            ]
+        ]
+    },
+    {
+        "id": "e25203b525c8618f",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "Publish Temperature",
+        "topic": "wildlife/zone1/temperature/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6bfeca5e4eefe715",
+        "x": 680,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "c149087860598415",
+        "type": "mqtt in",
+        "z": "728ac504bb4ac29a",
+        "name": "Receive Temperature",
+        "topic": "wildlife/zone1/temperature/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "355ac11ad495d60b",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 460,
+        "y": 460,
+        "wires": [
+            [
+                "7b30d5e406d3e79a"
+            ]
+        ]
+    },
+    {
+        "id": "7b30d5e406d3e79a",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Check Alert",
+        "func": "let temp = msg.payload.temperature; // that created by The Random Function\n\nlet gaugeMsg = { payload: temp };\nlet alertMsg = {};\n// Bulid the alert logic based on the temp value: \n//abnormal situation\nif (temp > 45) {\n    alertMsg.payload = \"CRITICAL: Temperature is too high (\" + temp + \"°C)\";\n}\n//sun-normal situation\nelse if (temp > 42) {\n    alertMsg.payload = \"WARNING: Temperature is high (\" + temp + \"°C)\";\n}\nelse { //normal situation\n    alertMsg.payload = \"STABLE: Temperature is normal (\" + temp + \"°C)\";\n}\n\nreturn [gaugeMsg, alertMsg];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 460,
+        "wires": [
+            [
+                "7b69bf17b93e410e"
+            ],
+            [
+                "2d2e9701e14cec1e",
+                "62f4e28e50eeef68",
+                "44d4f04217f78703"
+            ]
+        ]
+    },
+    {
+        "id": "c9c7c82a198daec3",
+        "type": "inject",
+        "z": "728ac504bb4ac29a",
+        "name": "Generate Water Level",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 300,
+        "y": 620,
+        "wires": [
+            [
+                "5d5502093244703a"
+            ]
+        ]
+    },
+    {
+        "id": "5d5502093244703a",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Random Water Level",
+        "func": "let levels = [\"high\", \"medium\", \"low\", \"empty\"];\n\nlet randomIndex = Math.floor(Math.random() * levels.length);\n\nmsg.payload = {\n    water_level: levels[randomIndex]\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 620,
+        "wires": [
+            [
+                "118a35bd6e7119d6"
+            ]
+        ]
+    },
+    {
+        "id": "118a35bd6e7119d6",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "Publish Water Level",
+        "topic": "wildlife/zone1/water/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0204b2444c5b3bc5",
+        "x": 730,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "bdd2823f7dc04bc7",
+        "type": "mqtt in",
+        "z": "728ac504bb4ac29a",
+        "name": "Receive Water Level",
+        "topic": "wildlife/zone1/water/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "c9e1a51ead32a2e5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 450,
+        "y": 680,
+        "wires": [
+            [
+                "7447fd6d7e853d6c"
+            ]
+        ]
+    },
+    {
+        "id": "7447fd6d7e853d6c",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Check Water Alert",
+        "func": "let water = msg.payload.water_level;\n\nif (water === \"empty\") {\n    msg.payload = \"CRITICAL: Water level is EMPTY\";\n}\nelse if (water === \"low\") {\n    msg.payload = \"WARNING: Water level is LOW\";\n}\nelse {\n    msg.payload = \"STABLE: Water level is \" + water;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 680,
+        "wires": [
+            [
+                "95e3d8bbf59e432e",
+                "4f8750ca0dc7eea8",
+                "44d4f04217f78703"
+            ]
+        ]
+    },
+    {
+        "id": "335db59dda6dbc88",
+        "type": "inject",
+        "z": "728ac504bb4ac29a",
+        "name": "Generate Motion",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 380,
+        "y": 920,
+        "wires": [
+            [
+                "649d52245bdbf449"
+            ]
+        ]
+    },
+    {
+        "id": "649d52245bdbf449",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Random Motion",
+        "func": "let types = [\"none\", \"animal\", \"intruder\"];\n\nlet randomIndex = Math.floor(Math.random() * types.length);\n\nlet selectedType = types[randomIndex];\n\nmsg.payload = {\n    motion: selectedType === \"none\" ? 0 : 1,\n    type: selectedType\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 920,
+        "wires": [
+            [
+                "043fd6330a1daca9"
+            ]
+        ]
+    },
+    {
+        "id": "043fd6330a1daca9",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "Publish Motion",
+        "topic": "wildlife/zone1/motion/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0d08774a4a18e912",
+        "x": 740,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "111fd4e1a997e44b",
+        "type": "mqtt in",
+        "z": "728ac504bb4ac29a",
+        "name": "Receive Motion",
+        "topic": "wildlife/zone1/motion/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1a3d7dde875b1ff4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 440,
+        "y": 980,
+        "wires": [
+            [
+                "484be4da3cb83dfd"
+            ]
+        ]
+    },
+    {
+        "id": "484be4da3cb83dfd",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Check Motion Alert",
+        "func": "let motion = msg.payload.motion;\nlet type = msg.payload.type;\n\nif (type === \"intruder\") {\n    msg.payload = \"CRITICAL: Intruder detected!\";\n}\nelse if (type === \"animal\") {\n    msg.payload = \"STABLE: Animal motion detected\";\n}\nelse {\n    msg.payload = \"STABLE: No motion\";\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 980,
+        "wires": [
+            [
+                "98d92d9e01818028",
+                "534a492327756052",
+                "44d4f04217f78703"
+            ]
+        ]
+    },
+    {
+        "id": "62f4e28e50eeef68",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "",
+        "topic": "wildlife/zone1/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4e2fbd8bc8f6407a",
+        "x": 1040,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "4f8750ca0dc7eea8",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "",
+        "topic": "wildlife/zone1/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7136cc70c38a9b",
+        "x": 1000,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "534a492327756052",
+        "type": "mqtt out",
+        "z": "728ac504bb4ac29a",
+        "name": "",
+        "topic": "wildlife/zone1/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "159d520b1ed3a967",
+        "x": 1040,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "44d4f04217f78703",
+        "type": "function",
+        "z": "728ac504bb4ac29a",
+        "name": "Zone1 Overall Status",
+        "func": "let alertText = msg.payload;\n\nlet status = \"STABLE\";\n\nif (alertText.includes(\"CRITICAL\")) {\n    status = \"CRITICAL\";\n}\nelse if (alertText.includes(\"WARNING\")) {\n    status = \"WARNING\";\n}\n\nmsg.alert = alertText;\nmsg.payload = status;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1440,
+        "y": 680,
+        "wires": [
+            [
+                "a8952a9347d8bfbb",
+                "24b4fe66c303c98f"
+            ]
+        ]
+    },
+    {
+        "id": "7b69bf17b93e410e",
+        "type": "ui_gauge",
+        "z": "728ac504bb4ac29a",
+        "name": "",
+        "group": "e827b166e5938e45",
+        "order": 1,
+        "width": "6",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Current Temperature:",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": "25",
+        "max": "52",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "42",
+        "seg2": "45",
+        "diff": false,
+        "className": "",
+        "x": 1020,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "95e3d8bbf59e432e",
+        "type": "ui_text",
+        "z": "728ac504bb4ac29a",
+        "group": "e827b166e5938e45",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "Water Level Display",
+        "label": "Water Level:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 970,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "98d92d9e01818028",
+        "type": "ui_text",
+        "z": "728ac504bb4ac29a",
+        "group": "e827b166e5938e45",
+        "order": 4,
+        "width": "6",
+        "height": "2",
+        "name": "Motion Display",
+        "label": "Motion Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1000,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "2d2e9701e14cec1e",
+        "type": "ui_text",
+        "z": "728ac504bb4ac29a",
+        "group": "e827b166e5938e45",
+        "order": 2,
+        "width": "6",
+        "height": "2",
+        "name": "Temperature Status Display",
+        "label": "Temperature Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1040,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "a8952a9347d8bfbb",
+        "type": "ui_template",
+        "z": "728ac504bb4ac29a",
+        "group": "1a6861ee97c201ae",
+        "name": "Zone State",
+        "order": 1,
+        "width": "6",
+        "height": "2",
+        "format": "<div style=\"font-size:20px; font-weight:bold;\">\n    <span>Zone1 overall State: </span>\n\n    <span ng-if=\"msg.payload == 'STABLE'\"\n        style=\"color:green;\">\n    STABLE\n  </span>\n\n    <span ng-if=\"msg.payload == 'WARNING'\"\n        style=\"color:orange;\">\n    WARNING\n  </span>\n\n    <span ng-if=\"msg.payload == 'CRITICAL'\"\n        style=\"color:red;\">\n    CRITICAL\n  </span>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1670,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "24b4fe66c303c98f",
+        "type": "ui_text",
+        "z": "728ac504bb4ac29a",
+        "group": "1a6861ee97c201ae",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "Latest Alert",
+        "label": "Latest Alert:",
+        "format": "{{msg.alert}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1670,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "0867a1a817cb61d3",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Random Temperature",
+        "func": "let temp =0;\nlet ismanual = false;\n\nif (msg.hasOwnProperty(\"enabled\")){ // check only for msgs coming from the buttons\n    flow.set(\"enabaled\", msg.enabled) // save in memory\n    return null;\n}\nismanual = flow.get(\"enabaled\") // retrive the data\n\nif (ismanual){\n    temp = msg.payload\n    msg.payload = { temperature: temp };\n    return msg\n\n}\n\n//disabled\ntemp = 0\ntemp = Math.floor(Math.random() * (52 - 25 + 1)) + 25;\nmsg.payload = {temperature: temp};\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1240,
+        "y": 260,
+        "wires": [
+            [
+                "505e1f5cc7b8bf9d"
+            ]
+        ]
+    },
+    {
+        "id": "505e1f5cc7b8bf9d",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "Publish Temperature",
+        "topic": "wildlife/zone2/temperature/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6bfeca5e4eefe715",
+        "x": 1480,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "503d9d66c35b40dc",
+        "type": "mqtt in",
+        "z": "e619af036e5865c2",
+        "name": "Receive Temperature",
+        "topic": "wildlife/zone2/temperature/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "355ac11ad495d60b",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 580,
+        "y": 340,
+        "wires": [
+            [
+                "5eaeaf9db73901b4"
+            ]
+        ]
+    },
+    {
+        "id": "5eaeaf9db73901b4",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Check Alert",
+        "func": "let temp = msg.payload.temperature;\n\nlet gaugeMsg = { payload: temp };\nlet alertMsg = {};\n\nif (temp > 45) {\n    alertMsg.payload = \"CRITICAL: Temperature is too high (\" + temp + \"°C)\";\n}\nelse if (temp > 42) {\n    alertMsg.payload = \"WARNING: Temperature is high (\" + temp + \"°C)\";\n}\nelse {\n    alertMsg.payload = \"STABLE: Temperature is normal (\" + temp + \"°C)\";\n}\n\nreturn [gaugeMsg, alertMsg];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 340,
+        "wires": [
+            [
+                "0716c346e3443c45"
+            ],
+            [
+                "59a8c82235fb2581",
+                "cfdb4524605561c7",
+                "ea46464664fd9fa8"
+            ]
+        ]
+    },
+    {
+        "id": "f877e5ea59c0ccd2",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Random Water Level",
+        "func": "let levels = [\"high\", \"medium\", \"low\", \"empty\"];\n\nlet randomIndex = Math.floor(Math.random() * levels.length);\n\nmsg.payload = {\n    water_level: levels[randomIndex]\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 520,
+        "wires": [
+            [
+                "0226e9935a23fef5"
+            ]
+        ]
+    },
+    {
+        "id": "0226e9935a23fef5",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "Publish Water Level",
+        "topic": "wildlife/zone2/water/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0204b2444c5b3bc5",
+        "x": 1130,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "6e829dbb5293befa",
+        "type": "mqtt in",
+        "z": "e619af036e5865c2",
+        "name": "Receive Water Level",
+        "topic": "wildlife/zone2/water/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "c9e1a51ead32a2e5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 600,
+        "y": 580,
+        "wires": [
+            [
+                "a4b0f335b69b35d0"
+            ]
+        ]
+    },
+    {
+        "id": "a4b0f335b69b35d0",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Check Water Alert",
+        "func": "let water = msg.payload.water_level;\n\nif (water === \"empty\") {\n    msg.payload = \"CRITICAL: Water level is EMPTY\";\n}\nelse if (water === \"low\") {\n    msg.payload = \"WARNING: Water level is LOW\";\n}\nelse {\n    msg.payload = \"STABLE: Water level is \" + water;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 580,
+        "wires": [
+            [
+                "708cf11d0b48480b",
+                "87111d6aec3e2f26",
+                "ea46464664fd9fa8"
+            ]
+        ]
+    },
+    {
+        "id": "4c5a16a8097c3040",
+        "type": "inject",
+        "z": "e619af036e5865c2",
+        "name": "Generate Motion",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 620,
+        "y": 820,
+        "wires": [
+            [
+                "075f7fed9075cd52"
+            ]
+        ]
+    },
+    {
+        "id": "075f7fed9075cd52",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Random Motion",
+        "func": "let types = [\"none\", \"animal\", \"intruder\"];\n\nlet randomIndex = Math.floor(Math.random() * types.length);\n\nlet selectedType = types[randomIndex];\n\nmsg.payload = {\n    motion: selectedType === \"none\" ? 0 : 1,\n    type: selectedType\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 820,
+        "wires": [
+            [
+                "6a6183994a7fcc2c"
+            ]
+        ]
+    },
+    {
+        "id": "6a6183994a7fcc2c",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "Publish Motion",
+        "topic": "wildlife/zone2/motion/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0d08774a4a18e912",
+        "x": 1030,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "4d75edab8c93e209",
+        "type": "mqtt in",
+        "z": "e619af036e5865c2",
+        "name": "Receive Motion",
+        "topic": "wildlife/zone2/motion/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1a3d7dde875b1ff4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 610,
+        "y": 880,
+        "wires": [
+            [
+                "3623e9499dfb0307"
+            ]
+        ]
+    },
+    {
+        "id": "3623e9499dfb0307",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Check Motion Alert",
+        "func": "let motion = msg.payload.motion;\nlet type = msg.payload.type;\n\nif (type === \"intruder\") {\n    msg.payload = \"CRITICAL: Intruder detected!\";\n}\nelse if (type === \"animal\") {\n    msg.payload = \"STABLE: Animal motion detected\";\n}\nelse {\n    msg.payload = \"STABLE: No motion\";\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 880,
+        "wires": [
+            [
+                "bedebeb8b3df1ff3",
+                "3c186b0351332db3",
+                "ea46464664fd9fa8"
+            ]
+        ]
+    },
+    {
+        "id": "cfdb4524605561c7",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "topic": "wildlife/zone2/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4e2fbd8bc8f6407a",
+        "x": 1410,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "87111d6aec3e2f26",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "topic": "wildlife/zone2/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7136cc70c38a9b",
+        "x": 1140,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "3c186b0351332db3",
+        "type": "mqtt out",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "topic": "wildlife/zone2/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "159d520b1ed3a967",
+        "x": 1160,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "ea46464664fd9fa8",
+        "type": "function",
+        "z": "e619af036e5865c2",
+        "name": "Zone 2 Overall Status",
+        "func": "let alertText = msg.payload;\n\nlet status = \"STABLE\";\n\nif (alertText.includes(\"CRITICAL\")) {\n    status = \"CRITICAL\";\n}\nelse if (alertText.includes(\"WARNING\")) {\n    status = \"WARNING\";\n}\n\nmsg.alert = alertText;\nmsg.payload = status;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1610,
+        "y": 540,
+        "wires": [
+            [
+                "6018b25dca972b3e",
+                "eb35185266bfc484"
+            ]
+        ]
+    },
+    {
+        "id": "0716c346e3443c45",
+        "type": "ui_gauge",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "group": "a8f3d00b42791a9e",
+        "order": 1,
+        "width": "6",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Current Temperature:",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": "25",
+        "max": "52",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "42",
+        "seg2": "45",
+        "diff": false,
+        "className": "",
+        "x": 1400,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "708cf11d0b48480b",
+        "type": "ui_text",
+        "z": "e619af036e5865c2",
+        "group": "a8f3d00b42791a9e",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "Water Level Display",
+        "label": "Water Level:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1130,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "bedebeb8b3df1ff3",
+        "type": "ui_text",
+        "z": "e619af036e5865c2",
+        "group": "a8f3d00b42791a9e",
+        "order": 4,
+        "width": "6",
+        "height": "2",
+        "name": "Motion Display",
+        "label": "Motion Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1130,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "59a8c82235fb2581",
+        "type": "ui_text",
+        "z": "e619af036e5865c2",
+        "group": "a8f3d00b42791a9e",
+        "order": 2,
+        "width": "6",
+        "height": "2",
+        "name": "Temperature Status Display",
+        "label": "Temperature Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1420,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "6018b25dca972b3e",
+        "type": "ui_text",
+        "z": "e619af036e5865c2",
+        "group": "7e0a6ec747f82c3a",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "name": "Zone 2 Latest Alert",
+        "label": "Latest Alert:",
+        "format": "{{msg.alert}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1860,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "eb35185266bfc484",
+        "type": "ui_template",
+        "z": "e619af036e5865c2",
+        "group": "7e0a6ec747f82c3a",
+        "name": "Zone 2 Colored Status",
+        "order": 1,
+        "width": "6",
+        "height": "2",
+        "format": "<div style=\"font-size:20px; font-weight:bold;\">\n    <span>Zone 2 Status: </span>\n\n    <span ng-if=\"msg.payload == 'STABLE'\"\n        style=\"color:green;\">\n    STABLE\n  </span>\n\n    <span ng-if=\"msg.payload == 'WARNING'\"\n        style=\"color:orange;\">\n    WARNING\n  </span>\n\n    <span ng-if=\"msg.payload == 'CRITICAL'\"\n        style=\"color:red;\">\n    CRITICAL\n  </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1850,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e4bc07ca942241f7",
+        "type": "inject",
+        "z": "e619af036e5865c2",
+        "name": "Generate Water Level",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 590,
+        "y": 520,
+        "wires": [
+            [
+                "f877e5ea59c0ccd2"
+            ]
+        ]
+    },
+    {
+        "id": "41e2e5e3b7896108",
+        "type": "inject",
+        "z": "e619af036e5865c2",
+        "name": "Generate Temperature",
+        "props": [],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 870,
+        "y": 260,
+        "wires": [
+            [
+                "0867a1a817cb61d3"
+            ]
+        ]
+    },
+    {
+        "id": "598e1285ce8c7de4",
+        "type": "ui_button",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "group": "09dc0ec7fdb91217",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Enble",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 610,
+        "y": 120,
+        "wires": [
+            [
+                "cc47774a00620061"
+            ]
+        ]
+    },
+    {
+        "id": "4dd6347fa8cecd8e",
+        "type": "ui_button",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "group": "09dc0ec7fdb91217",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Disable",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 620,
+        "y": 200,
+        "wires": [
+            [
+                "32d6acf9774c0d92"
+            ]
+        ]
+    },
+    {
+        "id": "839c70a2dc42e520",
+        "type": "ui_slider",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "label": "slider",
+        "tooltip": "",
+        "group": "818fd03c4eb6d38f",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "25",
+        "max": "52",
+        "step": 1,
+        "className": "",
+        "x": 1090,
+        "y": 120,
+        "wires": [
+            [
+                "0867a1a817cb61d3"
+            ]
+        ]
+    },
+    {
+        "id": "32d6acf9774c0d92",
+        "type": "change",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 200,
+        "wires": [
+            [
+                "839c70a2dc42e520",
+                "0867a1a817cb61d3"
+            ]
+        ]
+    },
+    {
+        "id": "cc47774a00620061",
+        "type": "change",
+        "z": "e619af036e5865c2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 120,
+        "wires": [
+            [
+                "839c70a2dc42e520",
+                "0867a1a817cb61d3"
+            ]
+        ]
+    },
+    {
+        "id": "6bd17eb0c165eed4",
+        "type": "inject",
+        "z": "bc31e30b1956870c",
+        "name": "Generate Temperature",
+        "props": [],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 210,
+        "y": 140,
+        "wires": [
+            [
+                "7ebaeac419afd676"
+            ]
+        ]
+    },
+    {
+        "id": "7ebaeac419afd676",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Random Temperature",
+        "func": "/*let temp;\n\nif (typeof msg.payload === \"number\") {\n    temp = msg.payload;\n} else {\n    temp = Math.floor(Math.random() * (52 - 25 + 1)) + 25;\n}\n\nmsg.payload = {\n    temperature: temp\n};\n\nreturn msg;\n*/\nlet temp = Math.floor(Math.random() * (52 - 25 + 1)) + 25;\n\nmsg.payload = {\n    temperature: temp\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 140,
+        "wires": [
+            [
+                "9b31be4edca82d35"
+            ]
+        ]
+    },
+    {
+        "id": "9b31be4edca82d35",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "Publish Temperature",
+        "topic": "wildlife/zone3/temperature/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6bfeca5e4eefe715",
+        "x": 700,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "111e112c6191a04e",
+        "type": "mqtt in",
+        "z": "bc31e30b1956870c",
+        "name": "Receive Temperature",
+        "topic": "wildlife/zone3/temperature/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "355ac11ad495d60b",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 200,
+        "wires": [
+            [
+                "cd892540284e7873"
+            ]
+        ]
+    },
+    {
+        "id": "cd892540284e7873",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Check Alert",
+        "func": "let temp = msg.payload.temperature;\n\nlet gaugeMsg = { payload: temp };\nlet alertMsg = {};\n\nif (temp > 45) {\n    alertMsg.payload = \"CRITICAL: Temperature is too high (\" + temp + \"°C)\";\n}\nelse if (temp > 42) {\n    alertMsg.payload = \"WARNING: Temperature is high (\" + temp + \"°C)\";\n}\nelse {\n    alertMsg.payload = \"STABLE: Temperature is normal (\" + temp + \"°C)\";\n}\n\nreturn [gaugeMsg, alertMsg];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 200,
+        "wires": [
+            [
+                "0e3a0f70ee1bf932"
+            ],
+            [
+                "c906a10241b1e4bc",
+                "11e142f9f04c71f0",
+                "1f75e17ea65ff46f"
+            ]
+        ]
+    },
+    {
+        "id": "b87e5ee24d3aca10",
+        "type": "inject",
+        "z": "bc31e30b1956870c",
+        "name": "Generate Water Level",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 360,
+        "wires": [
+            [
+                "2a999691f6f99e35"
+            ]
+        ]
+    },
+    {
+        "id": "2a999691f6f99e35",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Random Water Level",
+        "func": "let levels = [\"high\", \"medium\", \"low\", \"empty\"];\n\nlet randomIndex = Math.floor(Math.random() * levels.length);\n\nmsg.payload = {\n    water_level: levels[randomIndex]\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 360,
+        "wires": [
+            [
+                "7e432990bd4d03a0"
+            ]
+        ]
+    },
+    {
+        "id": "7e432990bd4d03a0",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "Publish Water Level",
+        "topic": "wildlife/zone3/water/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0204b2444c5b3bc5",
+        "x": 700,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "67d669244973bbe3",
+        "type": "mqtt in",
+        "z": "bc31e30b1956870c",
+        "name": "Receive Water Level",
+        "topic": "wildlife/zone3/water/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "c9e1a51ead32a2e5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 420,
+        "wires": [
+            [
+                "bafc0b9891d1a4bc"
+            ]
+        ]
+    },
+    {
+        "id": "bafc0b9891d1a4bc",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Check Water Alert",
+        "func": "let water = msg.payload.water_level;\n\nif (water === \"empty\") {\n    msg.payload = \"CRITICAL: Water level is EMPTY\";\n}\nelse if (water === \"low\") {\n    msg.payload = \"WARNING: Water level is LOW\";\n}\nelse {\n    msg.payload = \"STABLE: Water level is \" + water;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 420,
+        "wires": [
+            [
+                "1942115623831f58",
+                "fdfbd8d9e399c3af",
+                "1f75e17ea65ff46f"
+            ]
+        ]
+    },
+    {
+        "id": "25c292e0ebeb24cf",
+        "type": "inject",
+        "z": "bc31e30b1956870c",
+        "name": "Generate Motion",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 540,
+        "wires": [
+            [
+                "5bedb57c4fdc2a58"
+            ]
+        ]
+    },
+    {
+        "id": "5bedb57c4fdc2a58",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Random Motion",
+        "func": "let types = [\"none\", \"animal\", \"intruder\"];\n\nlet randomIndex = Math.floor(Math.random() * types.length);\n\nlet selectedType = types[randomIndex];\n\nmsg.payload = {\n    motion: selectedType === \"none\" ? 0 : 1,\n    type: selectedType\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 540,
+        "wires": [
+            [
+                "23181a2c35564b15"
+            ]
+        ]
+    },
+    {
+        "id": "23181a2c35564b15",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "Publish Motion",
+        "topic": "wildlife/zone3/motion/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "0d08774a4a18e912",
+        "x": 580,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "75a4970141706d2d",
+        "type": "mqtt in",
+        "z": "bc31e30b1956870c",
+        "name": "Receive Motion",
+        "topic": "wildlife/zone3/motion/Group3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1a3d7dde875b1ff4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 160,
+        "y": 600,
+        "wires": [
+            [
+                "846175849d808d4e"
+            ]
+        ]
+    },
+    {
+        "id": "846175849d808d4e",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Check Motion Alert",
+        "func": "let motion = msg.payload.motion;\nlet type = msg.payload.type;\n\nif (type === \"intruder\") {\n    msg.payload = \"CRITICAL: Intruder detected!\";\n}\nelse if (type === \"animal\") {\n    msg.payload = \"STABLE: Animal motion detected\";\n}\nelse {\n    msg.payload = \"STABLE: No motion\";\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 600,
+        "wires": [
+            [
+                "415b11d806f830be",
+                "7674ce1ad323f89f",
+                "1f75e17ea65ff46f"
+            ]
+        ]
+    },
+    {
+        "id": "11e142f9f04c71f0",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "",
+        "topic": "wildlife/zone3/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4e2fbd8bc8f6407a",
+        "x": 1010,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "fdfbd8d9e399c3af",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "",
+        "topic": "wildlife/zone3/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7136cc70c38a9b",
+        "x": 710,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "7674ce1ad323f89f",
+        "type": "mqtt out",
+        "z": "bc31e30b1956870c",
+        "name": "",
+        "topic": "wildlife/zone3/alerts/Group3",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "159d520b1ed3a967",
+        "x": 710,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "1f75e17ea65ff46f",
+        "type": "function",
+        "z": "bc31e30b1956870c",
+        "name": "Zone 3 Overall Status",
+        "func": "let alertText = msg.payload;\n\nlet status = \"STABLE\";\n\nif (alertText.includes(\"CRITICAL\")) {\n    status = \"CRITICAL\";\n}\nelse if (alertText.includes(\"WARNING\")) {\n    status = \"WARNING\";\n}\n\nmsg.alert = alertText;\nmsg.payload = status;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1280,
+        "y": 340,
+        "wires": [
+            [
+                "9c2196bb7be5f874",
+                "b5870532428230c5"
+            ]
+        ]
+    },
+    {
+        "id": "0e3a0f70ee1bf932",
+        "type": "ui_gauge",
+        "z": "bc31e30b1956870c",
+        "name": "",
+        "group": "4a792e3d100e4337",
+        "order": 1,
+        "width": "6",
+        "height": "4",
+        "gtype": "gage",
+        "title": "Current Temperature:",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": "25",
+        "max": "52",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "42",
+        "seg2": "45",
+        "diff": false,
+        "className": "",
+        "x": 1000,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "1942115623831f58",
+        "type": "ui_text",
+        "z": "bc31e30b1956870c",
+        "group": "4a792e3d100e4337",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "Water Level Display",
+        "label": "Water Level:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 700,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "415b11d806f830be",
+        "type": "ui_text",
+        "z": "bc31e30b1956870c",
+        "group": "4a792e3d100e4337",
+        "order": 4,
+        "width": "6",
+        "height": "2",
+        "name": "Motion Display",
+        "label": "Motion Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 680,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "c906a10241b1e4bc",
+        "type": "ui_text",
+        "z": "bc31e30b1956870c",
+        "group": "4a792e3d100e4337",
+        "order": 2,
+        "width": "6",
+        "height": "2",
+        "name": "Temperature Status Display",
+        "label": "Temperature Status:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1020,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "9c2196bb7be5f874",
+        "type": "ui_text",
+        "z": "bc31e30b1956870c",
+        "group": "c9c550f9c19edc27",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "name": "Zone 3 Latest Alert",
+        "label": "Latest Alert:",
+        "format": "{{msg.alert}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1530,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "b5870532428230c5",
+        "type": "ui_template",
+        "z": "bc31e30b1956870c",
+        "group": "c9c550f9c19edc27",
+        "name": "Zone 3 Colored Status",
+        "order": 1,
+        "width": "6",
+        "height": "2",
+        "format": "<div style=\"font-size:20px; font-weight:bold;\">\n    <span>Zone 3 Status: </span>\n\n    <span ng-if=\"msg.payload == 'STABLE'\"\n        style=\"color:green;\">\n    STABLE\n  </span>\n\n    <span ng-if=\"msg.payload == 'WARNING'\"\n        style=\"color:orange;\">\n    WARNING\n  </span>\n\n    <span ng-if=\"msg.payload == 'CRITICAL'\"\n        style=\"color:red;\">\n    CRITICAL\n  </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1520,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d2606da3e3401225",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]
